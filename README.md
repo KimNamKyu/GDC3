@@ -1,4 +1,3 @@
-<img src="http://file.gudi.kr/icon/icon_goodee.png" width="50" height="50"></img> [구디아카데미](http://goodee.co.kr)
 > * [스마트팩토리 프로그래밍](https://github.com/KimNamKyu/C-/blob/master/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pdf)
 > * [프로그래밍 언어 활용]()
 > * [응용 SW 기초 기술 활용]()
